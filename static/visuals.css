@@ -1,0 +1,98 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color:rgb(143, 82, 88);
+    background-image: url(images/Spis\ \(3\).png);
+
+
+}
+
+.container {
+    margin-left:auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+    .resize 
+        width: 118px;
+        height: auto;
+
+    
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.256);
+    height: 40px;
+}
+
+main {
+    height: 200px;
+    text-align: center;
+
+}
+    /* padding-left: 240px;
+    padding-right:240px; */
+
+    .right {
+        display: block;
+        margin-left: 380px;
+        width: 340px;
+        position: relative; top: -630px; 
+        
+      }
+footer {
+    background-color: rgba(0, 0, 0, 0.486);
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-bottom: 100px;
+}
+
+footer p {
+    font-size: 15px; 
+    text-align: center;
+    color: rgb(30, 30, 30);
+}
+
+
+h1 {
+    font-size:100px;
+    font-weight: 200;
+    color:saddlebrown;
+    font-family: American Typewriter, serif;
+
+}
+
+p {
+    font: size 100px;
+    color:sienna;
+    font-family: American Typewriter, serif;
+}
+
+h5 {
+    font-size:100px;
+    color:saddlebrown;
+    font-family: American Typewriter, serif;
+}
+
+h2 {
+    font-size:100px;
+    font-weight: 200;
+    color:saddlebrown;
+    font-family: American Typewriter, serif;
+}
+
+ .box2 {
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 320px;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    margin-left: 800px;
+    position: relative; top: -300px; 
+} 
